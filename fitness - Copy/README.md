@@ -82,11 +82,11 @@ Additional libraries and dependencies might be used based on specific features i
 
 # 1. Clone the repository:
 Run the following command in your git.
-git clone https://github.com/Atharva089/jiosaavn-clone.git
+git clone https://github.com/Madeye251002/PWA_lab_vrushabh_ghuse_ex01/tree/main/fitness%20-%20Copy
 
 # 2. Install dependencies:
 Run the following command in the terminal to navigate to the project folder & install all the necessary dependencies.
-cd jiosaavn-clone
+cd fitness-copy
 flutter pub get
 
 #  3. Configure Firebase:
